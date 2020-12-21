@@ -1,18 +1,18 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Kang Yeon Hyeong
+description: Engineer
+site_title: '@yhkang - yhkang1'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: yhkang0101
 blog_url: https://yhkang0101.github.io
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+email: kyh940101@gmail.com
+#keybase_username: yhkang
+#twitter_username: yhkang_
+#reddit_username: yhkang
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
